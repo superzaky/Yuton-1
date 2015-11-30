@@ -1,0 +1,10 @@
+uploads
+node_modules
+bower_components
+src/vendor
+build
+
+.tmp
+.settings
+.git
+npm-debug.log
